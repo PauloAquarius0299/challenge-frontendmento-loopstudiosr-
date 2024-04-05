@@ -1,3 +1,19 @@
+![Captura de Tela (150)](https://github.com/PauloAquarius0299/challenge-frontendmento-loopstudiosr-/assets/114706743/bbe4df89-0ed9-4e7b-8715-0fac03d24793)
+
+# Deafio FrontEnd Mentor Loopstudios
+O desafio era codar uma interface landing page responsiva com imagens e textos disponibilizadas no link do desafio 
+### Pre-Requisitos
+Instalação do ReactJs para construir toda aplicação e CSS no folder index.css para estilizar toda landing page
+```
+npx create-react-app
+```
+### Link do Desafio 
+```
+https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw
+```
+### Interface 
+![Captura de Tela (151)](https://github.com/PauloAquarius0299/challenge-frontendmento-loopstudiosr-/assets/114706743/a084ac22-5b00-4762-8501-ea453f62af11)
+![Captura de Tela (152)](https://github.com/PauloAquarius0299/challenge-frontendmento-loopstudiosr-/assets/114706743/22530ba9-a436-47d0-8026-d55ae0e187f3)
 
 
 # Getting Started with Create React App
